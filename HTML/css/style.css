@@ -1,0 +1,10 @@
+
+.body{
+    background: linear-gradient(
+        to right,
+        white 0%,
+        white 75%,
+        maroon 75%,
+        maroon 100%
+    );
+}
