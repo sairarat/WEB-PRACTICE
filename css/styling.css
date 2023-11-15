@@ -1,0 +1,287 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.image{
+    position: absolute;
+    top:20px;
+    left:120px ;
+}
+
+.image img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.name{
+    position: absolute;
+    top: 224px;
+    left: 88px;
+}
+
+.about{
+    position: absolute;
+    top:319px ;
+    left: 30px;
+    color: maroon;
+}
+
+.me{
+    position: absolute;
+    top: 377px;
+    left:29px ;
+
+}
+
+.personal{
+    position: absolute;
+    top: 574px;
+    left: 29px;
+    color: maroon;
+}
+
+.socials{
+    position: absolute;
+    top: 776px;
+    left: 30px;
+    color: maroon;
+}
+
+.image-phone img{
+    height: 25px;
+    width: 25px;
+}
+
+.image-phone{
+    position: absolute;
+    top: 823px;
+    left: 33px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+
+.image-email img{
+    height: 25px;
+    width: 25px;
+}
+
+.image-email{
+    position: absolute;
+    top:860px ;
+    left: 33px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+
+.image-facebook img{
+    height: 25px;
+    width: 25px;
+}
+
+.image-facebook{
+    position: absolute;
+    top: 895px;
+    left: 33px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+
+.image-github img{
+    height: 25px;
+    width: 25px;
+}
+
+.contact{
+    position: absolute;
+    top: 826px;
+    left: 66px;
+}
+
+.image-github{
+    position: absolute;
+    top: 932px;
+    left: 33px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+.info{
+    position: absolute;
+    top: 635px;
+    left: 29px;
+}
+
+.contact-reference-header{
+    position: absolute;
+    top: 1156px;
+    left: 33px;
+    color: maroon;
+}
+
+.contact-reference{
+    position: absolute;
+    top: 1211px;
+    left: 33px;
+}
+
+.languages-header{
+    position: absolute;
+    top: 1005px;
+    left: 33px;
+    color: maroon;
+}
+
+.languages{
+    position: absolute;
+    top: 1051px;
+    left: 33px;
+}
+
+.skills-header{
+    position: absolute;
+    top: 529px;
+    left: 767px;
+    color: maroon;
+}
+
+.skills{
+    position: absolute;
+    top: 596px;
+    left: 789px;
+}
+
+.cert{
+    position: absolute;
+    top: 818px;
+    left: 767px;
+    color: maroon;
+}
+
+.cert-content{
+    position: absolute;
+    top: 900px;
+    left: 767px;
+}
+
+.circle-border img{
+        height: 230px;
+        width: 230px;
+}
+
+.circle-border{
+    position: absolute;
+    top: 6px;
+    left: 106px;
+    z-index: -1;
+}
+
+.line-about img{
+    height: 100px;
+    width: 350px;
+}
+.line-about{
+    position: absolute;
+    top: 314px;
+    left: 24px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+    
+}
+
+.line-personal img{
+    height: 100px;
+    width: 350px;
+}
+
+.line-personal{
+    position: absolute;
+    top: 571px;
+    left: 24px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+
+.line-socials img{
+    height: 100px;
+    width: 350px;
+}
+
+.line-socials{
+    position: absolute;
+    top: 769px;
+    left: 24px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+
+.line-lang img{
+    height: 100px;
+    width: 350px;
+}
+
+.line-lang{
+    position: absolute;
+    top: 1001px;
+    left: 24px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+
+.line-contact img{
+    height: 100px;
+    width: 350px;
+}
+
+.line-contact{
+    position: absolute;
+    top: 1154px;
+    left: 24px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+
+.line-skills img{
+    height: 100px;
+    width: 500px;
+}
+
+.line-skills{
+        position: absolute;
+        top: 528px;
+        left: 762px;
+        filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+
+.line-cert img{
+    height: 100px;
+    width: 500px;
+}
+
+.line-cert{
+    position: absolute;
+    top: 821px;
+    left: 762px;
+    filter: invert(11%) sepia(99%) saturate(3972%) hue-rotate(17deg) brightness(76%) contrast(126%);
+}
+.box-1{
+    height: 1314px;
+    width: 800px;
+    background-color: white;
+}
+
+.box-1{
+    position: absolute;
+    top: 45px;
+    left: 600px;
+} 
+
+.school{
+    position: absolute;
+    top: 165px;
+    left: 770px;
+    font-size: 1.0rem;
+}
+.body{
+    background: linear-gradient(
+        to right,
+        rgb(187, 185, 185) 0%,
+        rgb(187, 185,185) 80%,
+        maroon 80%,
+        maroon 100%
+    );
+
+    
+}
